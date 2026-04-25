@@ -1,0 +1,13 @@
+name: SlashString
+version: '${version}'
+author: Kai295
+description: SlashString is a plugin that allows you to receive string from the server.
+
+main: org.kai295.slashString.SlashString
+api-version: '1.21.11'
+load: POSTWORLD
+
+commands:
+  string:
+    description: Receive string from the server, or reload config
+    usage: /string | /string reload

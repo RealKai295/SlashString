@@ -1,0 +1,16 @@
+reload:
+  too-many-args: "&7Too many arguments. Use &e/string reload&7."
+  no-permission: "&cYou cannot reload this plugin.&7 Operators can use &e/string reload&7, or run it from the server console."
+  success: "&6[SlashString] &aConfiguration reloaded successfully."
+
+general:
+  unknown-subcommand: "&7Unknown subcommand. Use &e/string&7 to claim string, or &e/string reload&7 to reload the config."
+  console-not-player: "&7Only in-game players can claim string with &e/string&7. To reload settings, run &e/string reload&7 from here."
+
+cooldown:
+  active: "&cThat command is on cooldown.&7 Come back in &e{time}&7."
+
+claim:
+  received-full: "&aYou received &e{amount} string&a."
+  received-with-drop: "&aYou received &e{amount} string&a. &7Anything that did not fit in your inventory was dropped at your feet."
+  partial-no-drop: "&6Your inventory only had room for &e{stored} string&6. &7{not_stored} could not be added &8(overflow is not dropped on this server)."

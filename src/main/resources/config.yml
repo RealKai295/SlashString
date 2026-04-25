@@ -1,0 +1,9 @@
+# How many string items each /string use gives (minimum 1).
+amount: 2304
+
+# Seconds before a player can use /string again (0 disables cooldown).
+cooldown-seconds: 60
+
+# If true, string that does not fit in the inventory is dropped at the player's feet.
+# If false, excess string is discarded.
+drop-if-full: true
