@@ -1,5 +1,6 @@
 package org.kai295.slashString;
 
+import org.bstats.bukkit.Metrics;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class SlashString extends JavaPlugin {
@@ -24,6 +25,8 @@ public final class SlashString extends JavaPlugin {
             return;
         }
         cmd.setExecutor(stringCommand);
+
+        new Metrics(this, 30954);
     }
 
     @Override
