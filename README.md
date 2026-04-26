@@ -1,5 +1,14 @@
 ![Icon](https://cdn.modrinth.com/data/cached_images/0c3ed27fbe31c052e899a810bf37234ab4461b4c.png)
 ##
+<a href="https://modrinth.com/plugin/kaisslashstring">
+  <img src="https://media.discordapp.net/attachments/1488573830606622790/1498019944586018876/modrinth_64h.png?ex=69efa34a&is=69ee51ca&hm=327881ebc5fcb405d09dbd51acb2d9045723154ff426354925f2219fc0bdb6b8&=&format=webp"
+       width="150" />
+</a>
+<a href="https://paypal.me/realkai295">
+  <img src="https://kai295.me/assets/generic-singular_64h.png"
+       width="170" />
+</a>
+
 Recent **Minecraft Java** updates have closed several **string** and **tripwire** duplication tricks that farms and players used for years. If your world just lost that supply, **SlashString** is a fair replacement: one command, and **you** set how much string they get and how often, with no exploits involved.
 
 ---
