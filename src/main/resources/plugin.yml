@@ -1,6 +1,6 @@
 name: SlashString
 version: '${version}'
-author: Tullebass
+author: Kai295
 description: SlashString is a plugin that allows you to receive string from the server.
 
 main: org.kai295.slashString.SlashString
