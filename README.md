@@ -77,3 +77,5 @@ After editing, use **`/string reload`** so players see the new text right away.
 - 🚫 You may not claim this plugin as your own.
 - 🚫 You may not resell or redistribute this plugin.
 - ✅ You may modify this plugin for personal use only; redistribution is not permitted.
+
+# ignore this text its a test
